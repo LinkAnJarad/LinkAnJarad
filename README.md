@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on a medication identification app that uses deep learning to help people recognize pills and packages.<br>👯 I’m looking to collaborate on open-source projects in AI, deep learning, or even SaaS ideas.<br>🤝 I’m looking for help with improving model deployment workflows and scaling apps for real users.<br>🌱 I’m currently learning more about penetration testing, cybersecurity, and computational neuroscience.<br>💬 Ask me about machine learning, computer vision, and turning fun side projects into real apps.<br>⚡ Fun fact: I dabble in a bit of 3D modeling in Blender!
+Super focused on AI development and creative SaaS systems. DM me if you have a really stupid idea and let's try to make it lol
 
 
 ## 🌐 Socials:
