@@ -1,5 +1,5 @@
 # About Me:
-Super focused on AI development and creative SaaS systems. DM me if you have a really stupid idea and let's try to make it lol
+Super focused on AI development and creative SaaS systems. Feel free to DM if you want to collaborate!
 
 
 ## 🌐 Socials:
